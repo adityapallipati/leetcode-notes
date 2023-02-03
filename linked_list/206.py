@@ -1,6 +1,11 @@
 """
 LINKED LISTS: SINGLY LINKED LISTS
 
+- access, retrieve elem from list O(n)
+- search, look for elem from list O(n)
+- insert, add elem given ref O(1)
+- del, remove elem given ref O(1)
+
 1. Made up of objects called ListNodes
     - has value
     - has next

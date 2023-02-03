@@ -1,5 +1,13 @@
 """
 STATIC ARRAYS
+
+- access, get elem from arr O(1)
+- insert, add elem in arr O(n)
+    - if insert at end O(1)
+- remove, del elem in arr O(n)
+    - if remove at end O(1)
+
+
 Leetcode #26: Remove Duplicates from Sorted Array
 1. array is sorted in increasing order
 2. remove the duplicates in place

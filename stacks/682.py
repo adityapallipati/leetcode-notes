@@ -1,6 +1,9 @@
 """
 STACKS
 - Last In, First Out
+- push, adds to end O(1)
+- pop, removes form end O(1)
+- peek/top, retrieves first elem O(1)
 
 example:
 
